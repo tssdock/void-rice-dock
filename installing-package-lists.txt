@@ -1,0 +1,3 @@
+To install APT packages from the list run:
+
+$ sudo apt-get install $(cat {pkglist})
